@@ -46,4 +46,3 @@ A clear and concise description of actions to be done after bug reproducing. E.g
 
 **User story and test case links** E.g.: "User story #100 Test case"
 
-**Labels to be added** "Bug", Priority ("pri: "), Severity ("severity:"), Type ("UI, "Functional"), "API" (for back-end bugs).
